@@ -8,7 +8,7 @@ Bem-vindo ao universo inovador do "WearSpeak", uma jornada tech-wearable que vai
 
 Conectando o Tecido Tecnológico:
 
-No epicentro deste projeto, nosso aplicativo Wear OS se torna a voz vitalícia dos colaboradores da "Doma".
+- No epicentro deste projeto, nosso aplicativo Wear OS se torna a voz vitalícia dos colaboradores da "Doma".
 O tecido tecnológico da plataforma Wear OS tece uma rede de comunicação, unindo todos os dispositivos vestíveis numa sinfonia inclusiva.
 Leitura Audível de Mensagens:
 
