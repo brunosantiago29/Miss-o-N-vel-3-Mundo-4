@@ -8,24 +8,17 @@
 - Projeto: Desenvolvimento de aplicativo Wear OS para inclusão e comunicação eficaz.
 - Objetivo: Atender às necessidades especiais de funcionários.
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 3255ad016fe1118759f9c68fdc996b12f180a1ce
 # Visão Geral do Aplicativo
 
 Aplicativo Wear OS para
 Leitura de mensagens e notificações em voz alta.
 Resposta a comandos de voz.
 Alertas de segurança e instruções via áudio.
-<<<<<<< HEAD
-=======
-=======
-- No epicentro deste projeto, nosso aplicativo Wear OS se torna a voz vitalícia dos colaboradores da "Doma".
+No epicentro deste projeto, nosso aplicativo Wear OS se torna a voz vitalícia dos colaboradores da "Doma".
 O tecido tecnológico da plataforma Wear OS tece uma rede de comunicação, unindo todos os dispositivos vestíveis numa sinfonia inclusiva.
 Leitura Audível de Mensagens:
 
->>>>>>> 3255ad016fe1118759f9c68fdc996b12f180a1ce
 
 # Estrutura do Código - MainActivity
 Inicialização do Bluetooth.
@@ -41,10 +34,7 @@ Identificação de saída embutida e dispositivos Bluetooth.
 Callback para detectar dispositivos de áudio adicionados ou removidos.
 Exemplo de uso para fone de ouvido Bluetooth.
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 3255ad016fe1118759f9c68fdc996b12f180a1ce
 # Estrutura do Código - Manifest
 
 Permissões necessárias para Bluetooth e Bluetooth LE.
@@ -68,8 +58,5 @@ Potencial impacto positivo na empresa e além.
 # Perguntas e Discussões
 Abertura para perguntas e discussões.
 Exploração de possíveis melhorias e expansões do projeto.
-<<<<<<< HEAD
 Observação: A apresentação fornece uma visão geral do projeto, destacando funcionalidades e estrutura de código. Adaptável conforme a necessidade e contexto específico da apresentação. toda ajuda e melhoria no projeto e bem vinda
-=======
-Observação: A apresentação fornece uma visão geral do projeto, destacando funcionalidades e estrutura de código. Adaptável conforme a necessidade e contexto específico da apresentação. toda ajuda e melhoria no projeto e bem vindo
->>>>>>> 3255ad016fe1118759f9c68fdc996b12f180a1ce
+
