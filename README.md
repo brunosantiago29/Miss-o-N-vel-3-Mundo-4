@@ -1,29 +1,54 @@
-# missao 3 mundo 4
-
+#   Missao 3 Mundo 4
 
 # Wear OS  - Projeto DOMA
 
 
-Bem-vindo ao universo inovador do "WearSpeak", uma jornada tech-wearable que vai além do convencional. Neste projeto, mergulharemos na criação de um aplicativo para Wear OS, moldado para oferecer uma voz aprimorada aos funcionários com necessidades especiais na empresa "Doma".
+# Introdução
 
-Conectando o Tecido Tecnológico:
+- Projeto: Desenvolvimento de aplicativo Wear OS para inclusão e comunicação eficaz.
+- Objetivo: Atender às necessidades especiais de funcionários.
 
-No epicentro deste projeto, nosso aplicativo Wear OS se torna a voz vitalícia dos colaboradores da "Doma".
-O tecido tecnológico da plataforma Wear OS tece uma rede de comunicação, unindo todos os dispositivos vestíveis numa sinfonia inclusiva.
-Leitura Audível de Mensagens:
+# Visão Geral do Aplicativo
+Aplicativo Wear OS para:
+Leitura de mensagens e notificações em voz alta.
+Resposta a comandos de voz.
+Alertas de segurança e instruções via áudio.
 
-WearSpeak eleva a comunicação a patamares novos, narrando mensagens e notificações em voz alta.
-Uma experiência auditiva que transcende as barreiras do texto, promovendo a acessibilidade e a igualdade de comunicação.
-Comandos Voz a Voz:
+# Estrutura do Código - MainActivity
+Inicialização do Bluetooth.
+Verificação de permissões para Bluetooth.
+Detecção dinâmica de dispositivos Bluetooth.
+Leitura de mensagens em voz alta.
 
-O poder da voz é colocado nas mãos, ou melhor, nas palavras dos colaboradores.
-Responder a comandos de voz não é apenas eficaz, mas uma forma empoderadora de interação, garantindo que cada voz seja ouvida.
-Alertas e Instruções Sincronizados:
+# Estrutura do Código - AudioHelper
+Verificação de disponibilidade de saída de áudio.
+Identificação de saída embutida e dispositivos Bluetooth.
 
-WearSpeak é o guardião vigilante, fornecendo alertas de segurança em tempo real.
-Instruções importantes são transmitidas por meio de áudio, criando uma camada de assistência que transcende a barreira visual.
-A Revolução "Doma":
+# Estrutura do Código - AudioCallbackHelper
+Callback para detectar dispositivos de áudio adicionados ou removidos.
+Exemplo de uso para fone de ouvido Bluetooth.
 
-Nos corredores da "Doma", a revolução tecnológica trazida pelo WearSpeak não apenas aprimora a eficiência, mas nutre um ambiente de trabalho inclusivo.
-A aplicação prática de tecnologias vestíveis redefine o conceito de acessibilidade no local de trabalho.
-"WearSpeak: Comunicando Inclusão" é mais do que um aplicativo; é um catalisador para transformações significativas. Neste projeto, não apenas desenvolvemos códigos, mas construímos uma ponte entre a tecnologia e a inclusão, onde a comunicação se torna um instrumento de igualdade. Prontos para vestir a inovação? 💼🔗🌐
+# Estrutura do Código - Manifest
+
+Permissões necessárias para Bluetooth e Bluetooth LE.
+Declaração da atividade principal no Manifest.
+
+# Funcionalidades Principais
+Integração efetiva de dispositivos Bluetooth para melhorar a experiência do usuário.
+Leitura de mensagens em tempo real.
+Resposta a comandos de voz.
+
+# Resultados Esperados
+Desenvolvimento de solução wearables prática e inclusiva.
+Aplicação potencial na empresa "Doma".
+Contribuição para a eficiência e comunicação interna.
+
+# Conclusão
+Destaque para a aplicação prática de tecnologias wearables.
+Envolvimento de funcionários com necessidades especiais.
+Potencial impacto positivo na empresa e além.
+
+# Perguntas e Discussões
+Abertura para perguntas e discussões.
+Exploração de possíveis melhorias e expansões do projeto.
+Observação: A apresentação fornece uma visão geral do projeto, destacando funcionalidades e estrutura de código. Adaptável conforme a necessidade e contexto específico da apresentação. toda ajuda e melhoria no projeto e bem vinda
